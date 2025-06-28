@@ -1,4 +1,4 @@
-Grazioso Salvare Animal Rescue Dashboard
+# Grazioso Salvare Animal Rescue Dashboard
 The Grazioso Salvare Dashboard is a web-based application designed to help identify dogs suited for search-and-rescue training by analyzing shelter data across the Austin, Texas region. 
 Built in partnership with a non-profit operating five shelters, the dashboard filters dogs by age, breed, and gender criteria for specific rescue types: water rescue, mountain/wilderness, and disaster/individual tracking.
 
